@@ -45,7 +45,7 @@ IoT based smart Lock V2.0    ▶️  [https://youtu.be/y38Mze43w-A]
 
 Commands Used  
   
-https://github.com/NVIDIA-AI-IOT/trt_pose  
+Source Repository - https://github.com/NVIDIA-AI-IOT/trt_pose  
 
 
 apt-get update  
