@@ -26,7 +26,7 @@
 
 🌐 YouTube Video Links -  
 
-IoT based smart Lock V2.0    ▶️  [https://youtu.be/y38Mze43w-A]  
+Real Time Pose Estimation on Jetson Nano    ▶️  [https://youtu.be/y38Mze43w-A]  
 
 <br  />
 
